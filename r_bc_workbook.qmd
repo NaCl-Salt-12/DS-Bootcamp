@@ -1,0 +1,69 @@
+
+---
+title: "Bootcamp R Workbook"
+format: html
+---
+
+This version has solutions 
+
+# Bootcamp Workbook
+
+The purpose of this document is to assess and provide a framework to review the fundamentals of programming with R for Data Science.
+
+# Task 1
+
+Load in the tidyverse library and read in the following `.csv` file: ['https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2025/2025-04-15/penguins.csv']()
+
+
+```{r}
+
+```
+
+# Task 2
+
+List the column names and view the imported data.
+```{r}
+
+
+```
+
+# Task 3
+
+Create a plot that shows the relationship between body mass and bill length
+```{r}
+  
+```
+
+
+# Task 4
+
+Create a new dataframe/tibble that only has the body mass, bill length, and species and create a plot that shows the relationship between them
+
+```{r}
+```
+
+# Task 5
+Create a new column called body_mass_kg (Hint to convert grams to kilograms divide by 1000) and 
+Create a boxplot that shows the ditribution of body mass in kilograms by island
+```{r}
+```
+
+# Task 6 
+
+Filter the data to only include Female penguins and plot flipper length by bill depth.
+```{r}
+```
+
+# Task 7
+
+Find and create a bar chart that shows the average body_mass by species.(Hint you will need to remove nulls or use a similar argument in mean() use `mean()` to find the average)
+
+```{r}
+```
+
+# Task 8 
+
+Select one of the plots you created above and label the axises and give it a title.
+
+```{r}
+```
