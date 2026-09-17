@@ -42,7 +42,7 @@ Create a new dataframe that only has the body mass, bill length, and species and
 ```
 
 # Task 5
-Create a new column called body_mass_kg (Hint to convert grams to kilograms divide by 1000) and
+Create a new column called body_mass_kg (Hint to convert grams to kilograms divide by 1000, you will need to convert body_mass to a Int or Float) and
 Create a boxplot that shows the distribution of body mass in kilograms by island
 ```{python}
 ```
@@ -55,7 +55,7 @@ Filter the data to only include Female penguins and plot flipper length by bill 
 
 # Task 7
 
-Find and create a bar chart that shows the average body_mass by species.(Hint you will need to remove nulls or use a similar argument in mean() use `mean()` to find the average)
+Find and create a bar chart that shows the average body_mass by species.(Hint you will need to remove nulls, and cast body_mass to a float, use `.mean()` to find the average)
 
 ```{python}
 ```
