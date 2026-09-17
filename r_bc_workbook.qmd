@@ -4,7 +4,6 @@ title: "Bootcamp R Workbook"
 format: html
 ---
 
-This version has solutions 
 
 # Bootcamp Workbook
 
