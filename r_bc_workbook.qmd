@@ -55,7 +55,8 @@ Filter the data to only include Female penguins and plot flipper length by bill 
 
 # Task 7
 
-Find and create a bar chart that shows the average body_mass by species.(Hint you will need to remove nulls or use a similar argument in mean() use `mean()` to find the average)
+Find and create a bar chart that shows the average body_mass by species.
+(Hint you will need to remove nulls or use a similar argument in mean() use `mean()` to find the average)
 
 ```{r}
 ```
