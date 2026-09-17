@@ -5,7 +5,6 @@ format: html
 jupyter: python3
 ---
 
-This version has solutions
 # Bootcamp Workbook
 
 The purpose of this document is to assess and provide a framework to review the fundamentals of programming with Python for Data Science.
